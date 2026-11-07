@@ -1,0 +1,64 @@
+{
+  "stats": {
+    "season1": {
+      "rows": 13510,
+      "changes": 1111
+    },
+    "season2": {
+      "rows": 11345,
+      "changes": 353
+    },
+    "season3": {
+      "rows": 8187,
+      "changes": 367
+    },
+    "season4": {
+      "rows": 6445,
+      "changes": 467
+    }
+  },
+  "patchCounts": {
+    "s1": 671,
+    "s2": 330,
+    "s3": 365,
+    "s4": 354,
+    "s4_ch4": 93,
+    "s1_ch6_head": 39,
+    "s1_ch6_tail": 24,
+    "s1_ch7_head": 57,
+    "s1_ch7_middle": 203,
+    "s1_ch7_tail": 103
+  },
+  "changes": 2298,
+  "supplemental": 3,
+  "chapter_sha256": {
+    "season1/ch01_map_1_to_3.jsonl": "e0c60fab57eaebe6899a9a6d0b8adff8834afcce11ba26e9992b75592e03f64c",
+    "season1/ch01_mapmode1_end.jsonl": "8824bc2446a96bfa55f57d86313487be98030a80c4e3b05a3ff38483b323f657",
+    "season1/ch01_rgd1_opning.jsonl": "b8bb41eadac10ed1591b0eac4076236bb7a99f9e790256cc89c016fb8b95668c",
+    "season1/ch02.jsonl": "63e7f7642f3e6fa95059d7ade3c966af2be06b4908d402a30ce224846a7a31cb",
+    "season1/ch03.jsonl": "7f5611cc7668189bea56c34c84f48791e60dac43ac1e2f20335bf3374c046efa",
+    "season1/ch04.jsonl": "f029ea2c6aa687d9219fec016b3c807e80426ef5fac8500af8adc211cec7081f",
+    "season1/ch05.jsonl": "5f4b432cc736a92327ca6825e1f49c9e9f559a9379402af15481436541069f91",
+    "season1/ch06.jsonl": "d66534d2059bb1b76d93ad0d27f289729d735832629ac40096deab49938497c1",
+    "season1/ch07.jsonl": "5135084ac5484e75c268b9462d1c5a95e3429f9e77621d7a8c3eb5fc71bfd5b8",
+    "season1/tutorial.jsonl": "29c3b6b7e345f394ec9ba6e00ff7e41b3ff1ccd95f1d79da7b4b093e2de41c91",
+    "season2/ch01.jsonl": "5ae75481c3f482fe17bb3741f33faa5a58b572b54a5bc477a76fea1e2de19510",
+    "season2/ch02.jsonl": "7fb08bc0f1ce4d32d612f4b6df1f3f8cb56a37a84c67b5f489a83110f58ff591",
+    "season2/ch03.jsonl": "f247f11eeac8b1736390ee81ee9000c29661dcba06d21d38ed2957538d79d748",
+    "season2/ch04.jsonl": "727334d391985ef26e3bfe50000e1f13937a48934bf6a003e03cc7ed10411b13",
+    "season2/ch05.jsonl": "d4c49ee08542460a236442b8748a235ed351a259175b3a85d60429aabbc5c2f6",
+    "season2/ch06.jsonl": "e034086bf24d269008972083f56db52bcfe2e0fd716a5dc1c304167228f6c795",
+    "season2/ch07.jsonl": "735e29100937e2ff4e292eade50720ce1a65cbe381c997248bd29bbad0ec2354",
+    "season3/ch01.jsonl": "04e814f5b298e48ed15b7ea3b009da93d87a43628685dc5071227227d143d158",
+    "season3/ch02.jsonl": "83d6de5f91709e48b89613153ce6171934ee6ca4149bdd700e5d6704688acb89",
+    "season3/ch03.jsonl": "bc1a29849e6563f5300dda718fa7bf769f2003721710e1c004098ff7e38370c9",
+    "season3/ch04.jsonl": "2a833395ec80c3f67aefc345633c1c576cec6bc450aa615336ec4cea9d726f90",
+    "season3/ch05.jsonl": "995b0a93d381e3d7c7fc259402ea6af1455635118c544c66a079ae1eb59d6edc",
+    "season4/ch01.jsonl": "8b594928094212143524e1a627008d147ad52b0d581e300f5085f4a4590fbadd",
+    "season4/ch02.jsonl": "f2941142938e400738244046495c18d504b675ba89ce3bfe85378338f194336c",
+    "season4/ch03.jsonl": "23bbee93c74c619c6d93b47960c087bc5cec49d82ef9dc0c1135b2225c72715d",
+    "season4/ch04.jsonl": "eaee15b1957dce0c85407c780a2f638a3c0b6487071d86cab4c15fa0f40112c7",
+    "season4/ch05.jsonl": "6194170165626f8de152b1f8cf08c760069ce23b8f34a23e04e1440dcf3b70e5"
+  },
+  "supplemental_sha256": "5e7bf392bb9ab2daf7963d7472a4a3ef8998e312646190baee4d98f2e145dc68"
+}

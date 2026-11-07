@@ -1,0 +1,127 @@
+{"id":"L007641","source_sha256":"53a58069e725f8fc3add5baaabfe1bc584a9af314dcb3eafc56539a3025ac804","translation_zh":"欢迎来到ROSE GUNS DAYS的世界！","review_notes":"沿用 1.5 句式；英文字号及排版统一为大写 ROSE GUNS DAYS。"}
+{"id":"L007645","source_sha256":"6204eaf43b1df3accc7ca3223ece4590dba13ec21a4c0b168d68a3a7e50cbd1b","translation_zh":"这里先给大家介绍一些基本玩法，让大家玩得更尽兴。","review_notes":"旧译「为了让大家能充分享受到游戏的乐趣，在这里有一些基本的东西需要说明一下」口吻自然，略作凝练贴合原文「基礎知識をご紹介します」。 采纳语言复审：恢复罗斯直接对玩家说话的口吻，避免书面腔。"}
+{"id":"L007649","source_sha256":"8c45c8929e0c5f6f4af9a63c6f9bba17e621ca0237547f182068b9a2413270e2","translation_zh":"首先是基础中的基础！@先从如何“存档”讲起。","review_notes":"保留「っ」轻快语气与 @ 停顿，セーブ统一为「存档」。"}
+{"id":"L007655","source_sha256":"40b18af2bfaa64868e197724b8d743f8271c16c896cd577b6084fd33b2e063b9","translation_zh":"在文字剧情部分点击右键，就会出现这样的画面。","review_notes":"修正 1.5 遗漏「ノベルパートで（在文字剧情部分）」的漏译。"}
+{"id":"L007662","source_sha256":"d8d8a5ce5a189989165bc529319812d475e84f7e4e297ca0c354ae7e43a3328a","translation_zh":"最右上方的这个按钮就是存档按钮啦。","review_notes":"修正 1.5 错译「最上面的选项」，准确还原「一番右上のボタン（最右上方的按钮）」，术语统一为存档按钮。"}
+{"id":"L007668","source_sha256":"6086dea7d7f1055f854682c9ec0fca2672559a22796b4ba3c45d3327acd52364","translation_zh":"按下它就能进入存档模式。","review_notes":"沿用 1.5「点它就能进入保存界面」，将「保存」统一为「存档模式」。"}
+{"id":"L007671","source_sha256":"c0eddb59ae15f83460297a6c29863e7d61cff8a7e54ddbc60667cc14f2c9984c","translation_zh":"选一个存档槽，点一下就能保存啦。","review_notes":"修正 1.5「凸槽」严重用词不当，还原「スロット（存档位）」。 采纳语言复审：「存档槽」直观对应界面位置。"}
+{"id":"L007681","source_sha256":"90047758cca4ea9992e79099fedaa1a3c720638cacc9b22b5c9fc92f0c76ff80","translation_zh":"跟最初的体验版不同，现在无论在哪里都可以存档了哦！@　太方便啦！","review_notes":"修复 1.5 标点空隙与全角空格排版缺陷，体现梅丽尔活泼自信口吻。"}
+{"id":"L007686","source_sha256":"953935682d3c68f7e54b0a7e70f390f3417722fc75dd20a4f679c33b2c5a6c87","translation_zh":"下面要介绍的是战斗场景。","review_notes":"直接复用 1.5 准确自然的译文。"}
+{"id":"L007691","source_sha256":"f3104949673d9f13a14922d8e397c437c90e1fdaa50ddf0b137a76d149705d6c","translation_zh":"真没想到吧，ROSE GUNS DAYS明明是视觉小说，居然会出现战斗场景呢。","review_notes":"修正 1.5 将「何とっ（没想到吧/竟然）」误译为「不知道为什么」的严重语气偏差。"}
+{"id":"L007695","source_sha256":"f0a0f4440b906a77e96f57444ff123f274142555cf92c8ce2df3fc4d6510838b","translation_zh":"战斗场景做成了简单的小游戏。","review_notes":"修正 1.5 遗留日文汉字「戦闘」，规范为简体中文「战斗」。"}
+{"id":"L007699","source_sha256":"b8fb47f947aadf626d808e807e903e4f2a530533cca9895e255d38ae2607fcb0","translation_zh":"那么，详细说明就拜托敬礼寺先生了。","review_notes":"直接复用 1.5 译文；敬称「敬礼寺さん」统一为「敬礼寺先生」。"}
+{"id":"L007714","source_sha256":"25593d7b8184b8b30764a833850573551c04ba0ec8430a7454e7a2d8d95d9829","translation_zh":"哟，小子。@好好听清楚了。","review_notes":"直接复用 1.5 译文；保留敬礼寺老兵粗粝口吻与 @ 停顿。"}
+{"id":"L007718","source_sha256":"812a15bf04b1b21adc42424ea5159e916f63dfadc5f602ccd498f4995cad9a7a","translation_zh":"想活命，惹上麻烦就得自己摆平。","review_notes":"修正 1.5 对惯用句「降りかかる火の粉は自分で払うしかねェ（飞来的祸患/火星只能靠自己排除）」生硬字面的处理。 采纳语言复审：还原惯用句强调的自保与亲自应对。"}
+{"id":"L007722","source_sha256":"091dc67aba7124080b6e65434523fdbfcfe82ad56dc58b7cfb32a73e9a234ed9","translation_zh":"一旦察觉到可能被卷入斗殴或枪战的苗头，随时做好战斗准备。","review_notes":"沿用 1.5 语意并润色对白节奏。"}
+{"id":"L007726","source_sha256":"334827d05d8796e962d318ceaf7ea0352edb0243d762b2ed4be02cdab2fcb146","translation_zh":"战斗分为两个环节。@“防御”与“攻击”。","review_notes":"修正 1.5 遗留日文汉字「攻撃」，规范为简体汉字「攻击」。"}
+{"id":"L007730","source_sha256":"c7893705bbed3261034794b14e5d4c89fa375e92e07f6ec37e6fe74f5bd2e27e","translation_zh":"先教你怎么防御。","review_notes":"沿用 1.5「首先从“防御”教起」，融入敬礼寺粗犷长辈口吻。 采纳语言复审：保留前辈直接指点的语气。"}
+{"id":"L007741","source_sha256":"448c535bfdaed7b2069aa1f0e2bbcc950e12a4c1c14bdd86082e11aa05f11c3d","translation_zh":"「这个“白色打击标记”，就是敌人的攻击。」","review_notes":"系统教学旁白，沿用 1.5 并准确体现「ヒットマーク（打击标记/判定点）」。"}
+{"id":"L007742","source_sha256":"61c41011c331fa322b51ea8f86ee93cf65327661bbfa8473c2d7dd5936ad24fe","translation_zh":"「只要把鼠标移到这个打击标记上，就能防住攻击。」","review_notes":"润色 1.5「把鼠标移动到打击点上面能防御攻击」的生硬语序。"}
+{"id":"L007743","source_sha256":"c12ec18e2dc5e00e72afa9c44f89091eb2194957a44833f38ef3e69615a95245","translation_zh":"「不用点击。@把鼠标指针移到标记上就行。」","review_notes":"修正 1.5 脑补「相应部位」的问题，准确传达「矢印を当てる（光标对准）」。 采纳语言复审：明确指针移到标记上，删去重复词。"}
+{"id":"L007744","source_sha256":"5238f28f714c49dfabc83cdccbe8bb344456b01cd76a43ac7816a7b769d62cba","translation_zh":"「就像甩动鼠标，把敌人的攻击拨开一样。」","review_notes":"修正 1.5「一扫而过」，准确传达「払い除ける（挥手拂去/拨开）」动作感。 采纳语言复审：直接描述甩动鼠标，避免误读。"}
+{"id":"L007745","source_sha256":"25738130e073540bff08f1b8d2257831492d14ef87c3bc5824159d7b3874724a","translation_zh":"「重复这一操作，在时限内防住规定次数的攻击，就算防御成功。」","review_notes":"消除 1.5 遗留的日文生造词「限制時間」「相应回数」，改为自然中文。"}
+{"id":"L007753","source_sha256":"451180de8451beb8eddbe54969f45b3fe4d5201d9c3006f7bebb4ffa8fbe90c7","translation_zh":"「顺带一提，画面最左边那根竖条，就是计时条。」","review_notes":"消除 1.5「表示的竖条」和制汉语痕迹，改为规范表达「显示的那根竖条」。 采纳语言复审：明确计时条位置与概念。"}
+{"id":"L007755","source_sha256":"ccd1d2a3b771f848f137a3ab6f212d4c810faae954dfeccaef01e92764b1b0e0","translation_zh":"「也就是说，得在计时条走完之前，防住规定次数的攻击。」","review_notes":"修正 1.5 将「回数」错译为「回合数」的问题。 采纳语言复审：接续计时条称呼，指明防守成功条件。"}
+{"id":"L007757","source_sha256":"4b59c83aefde60b5cd044012aba5ed0f3920eb09bd4c9e482572786c30a657ff","translation_zh":"「快速移动鼠标，在时限内把敌人的攻击全部防住。」","review_notes":"拟声词「ぶんぶん」体现晃动感，修正 1.5 将「防御」误翻为「击退进攻」的问题。 采纳语言复审：保留快速甩动要领，避免拟声词误读。"}
+{"id":"L007759","source_sha256":"dfca25e26a2bce7d5e94cad68c92d9a0d6aa0edf42d421d36361b6e67d3e0d57","translation_zh":"「这就是防御了……！」","review_notes":"标点规范化：统一单点破折/省略号为中文双破折/省略号「……」。"}
+{"id":"L007767","source_sha256":"ac1600c70c8d8ff4f77b518a06cbdf9d180cb31f260f3fb2980049fe53ca6aaa","translation_zh":"不用点击，只管晃动鼠标！@　够简单的吧？","review_notes":"直接复用 1.5 译文风格，保留 @ 停顿与全角空格节奏。"}
+{"id":"L007771","source_sha256":"6298fbd3fc01f9e5e0ed58f65dc8761edb2eea6268403e3a1011e79c5e98c899","translation_zh":"那么，赶紧趁热打铁实操一回吧。","review_notes":"直接复用 1.5「赶紧趁热打铁实操一回」的生动口吻。"}
+{"id":"L007775","source_sha256":"005e3f4a38e1d916f89181d32bf4fa2470f162003892394d39f77f1dabc81c16","translation_zh":"喂——谁来当一下这小子的对手……！@　就没人来吗……！","review_notes":"复用 1.5 喊话风格，规范省略号为「……」。"}
+{"id":"L007785","source_sha256":"22026534ad9c824f8a4deb79c9650b09ea5584c54d53f54a526050adaa56f10f","translation_zh":"呵呵呵。@……我来悄悄教你一个隐藏的小秘技吧。","review_notes":"修正 1.5 漏译「裏技（隐藏秘技/技巧）」的问题，贴合斯特拉神秘调侃的语气。"}
+{"id":"L007789","source_sha256":"4c383093ebf8954175a38b1b6271b215a0a607b8c8949817c5360e4c98199b87","translation_zh":"虽然敬礼寺说只要晃晃鼠标就能搞定，操作很简单……","review_notes":"沿用 1.5 口吻并修饰对白节奏。"}
+{"id":"L007793","source_sha256":"959c58a14e2bdb63403f41dcceb8cc05193017a7077d87800813d605fd495807","translation_zh":"但说到底，肯定也有不用鼠标玩的人对吧？","review_notes":"口吻自然化，准确对应「そもそもマウスじゃない人だっている」。"}
+{"id":"L007799","source_sha256":"dd5a42adcc41ef04a315b879ea4ae8f79ccd5029d3b168ef60260094f4212101","translation_zh":"也是呢……。@毕竟肯定也有不擅长动作游戏的人……","review_notes":"保留 @ 停顿与罗斯体贴口吻。"}
+{"id":"L007803","source_sha256":"01fb24e0954608ca6ee75623766a840c8489c082943e5f93e4e22d1fecd598a5","translation_zh":"也有可能是因为电脑设备等等各种原因，导致没法顺畅应付战斗场景呢。","review_notes":"修正 1.5 生硬的「视系统配置等情况而定」，改为自然口语。"}
+{"id":"L007808","source_sha256":"0f1a3ca6aac1ccdb3126aba86145123f8900d72d3a8f349a3e97c817372006ef","translation_zh":"所以呀，为了这样的人，我来悄悄教大家一个压箱底的绝招吧。","review_notes":"贴合斯特拉神秘亲切口吻。"}
+{"id":"L007812","source_sha256":"69005ac6aa68b06019b8cb4d1c8574d51e3b7680865764e5ee36de1f66282e7e","translation_zh":"呵呵呵……那个秘密呀，就是“空格键”哦。","review_notes":"沿用 1.5，规范省略号为中文标准「……」。"}
+{"id":"L007816","source_sha256":"5454f6de040138fa261948aee27816989cc0553def77603180a377309e2673b2","translation_zh":"空格键？","review_notes":"复用 1.5，准确简洁。"}
+{"id":"L007823","source_sha256":"0e6d6c7ded633b8542bac105632d945920aec8a0176a4d66de0da902f3b52657","translation_zh":"就在你的正前方，键盘上横向最长的那颗键，就是“空格键”。","review_notes":"生动明确指示按键位置。"}
+{"id":"L007826","source_sha256":"523df1f25ddc77449d4b5eb8b7da4a17175243934121b99a9ad10f536a818457","translation_zh":"在玩战斗场景时，要是觉得太难、或者觉得自己不太适应的话。","review_notes":"沿用 1.5 语意，润色口语。"}
+{"id":"L007830","source_sha256":"f3760901417ebf368ffbfea00ab0f5546e24b3f41734d660149538092e52f9bf","translation_zh":"就在战斗途中，狠狠地按下空格键试试看……！","review_notes":"生动还原拟声词「ばちーんと」。"}
+{"id":"L007839","source_sha256":"db2f2ef4e217fee7180c3b4e923a9a7627387ccd8cbd9e8b1870ef35b44f0946","translation_zh":"按了之后，会怎么样呢？","review_notes":"沿用 1.5，贴合罗斯疑问语气。"}
+{"id":"L007843","source_sha256":"4f6bd4a846875b5e7cf089385cc0184233e67923003507bd281883f04d859f98","translation_zh":"特殊绝招就会发动！@　不管敌人发起多猛烈的攻势，只要一按空格键就能全部格挡！","review_notes":"【纠错】修正 1.5 将「スペシャルムーブ（Special Move/特殊绝招）」严重误译为「高速移动模式」的错误！保留 @ 停顿。"}
+{"id":"L007847","source_sha256":"2636d09c50761ebb449378b65e8c38f68b19def9559c60e8ed31dafd0c3e0ddc","translation_zh":"好、好厉害……！@　只要按一下空格键，就能战胜任何强敌吗？！","review_notes":"修正 1.5 标点，规范表达。"}
+{"id":"L007851","source_sha256":"ca31d9939dd066aa2df668d7630e34b4b9c3461f43ba05cb6f9b34d1234329c5","translation_zh":"就是这样啦。@这可是秘密，千万别告诉敬礼寺哦……～","review_notes":"沿用 1.5，贴合斯特拉调皮声线。"}
+{"id":"L007858","source_sha256":"20742163d4dfb6e5fad8a93036b1af206ad7b4fee4881a1339001b89d821aad3","translation_zh":"喂，小子，让你久等了。@接下来这个男人会向你发起攻击。","review_notes":"敬礼寺粗犷口吻，保留 @ 停顿。"}
+{"id":"L007862","source_sha256":"145b4d826e70fbcd825a7544220d9256f9c736d218678760a133723241d52fff","translation_zh":"把鼠标对准对方攻击的“打击标记”，把攻击防下来看看。","review_notes":"准确对应「相手の攻撃“ヒットマーク”にマウスを当てて」。"}
+{"id":"L007866","source_sha256":"3e3649ea265eea3d5dc562960a28d78c4506d6fa3a3a0765424d3e43b33680ff","translation_zh":"……要是遇到困难，可要记得空格键的绝招哦。","review_notes":"沿用 1.5 并保留「裏技（绝招/秘技）」。"}
+{"id":"L007870","source_sha256":"a442adda7ca57fb0109ca0b2a37a8ec10511a71aa648fe6e6205a6ddd6e9de59","translation_zh":"来吧，要上啦！@　让我见识见识你的防御功夫。","review_notes":"修饰 1.5「让我们看一下你是怎么保护自己的」的冗长翻译。"}
+{"id":"L007899","source_sha256":"fc5ad94462b082af24c28b54a40b4b6eb411b21a68556ae4b034131dafd36ecf","translation_zh":"这就是防御了。@给老子用身体牢牢记住！","review_notes":"生动传达敬礼寺老兵教官式呵斥。"}
+{"id":"L007904","source_sha256":"a6e1feb57f59396546bcc378c9c429f4acadd68dc09f0e4d04d7ad8abd2fb29c","translation_zh":"试过空格键了吗？@　真的只要轻轻一按，就能全部防住了呢。","review_notes":"准确还原「チョコンと押すだけで」。"}
+{"id":"L007908","source_sha256":"d8dcacc0b8530e49a9f26f2026a091fb634861758d72c9cf9e4963170a095352","translation_zh":"好，接下来教你“攻击”。","review_notes":"敬礼寺利落教学口吻。"}
+{"id":"L007921","source_sha256":"8549b81c2f422a2e9706af0379e164dabd4097d593dee0a56587371c2194f177","translation_zh":"「同样，“白色打击标记”就是你的攻击。」","review_notes":"系统说明，统一术语「打击标记」。"}
+{"id":"L007922","source_sha256":"ce3ab781c5e774bdb921d53019e3213698a8f965091e8975f54efd02eac21f0c","translation_zh":"「和防御不同，这次需要点击鼠标了。」","review_notes":"说明清晰直观。"}
+{"id":"L007923","source_sha256":"f73e56473499d30dd4d8de10fddddd1a9ab968e709365318be434505f697dc24","translation_zh":"「把鼠标移到“打击标记”上并点击。@这就是攻击。」","review_notes":"保留 @ 停顿，指令明确。"}
+{"id":"L007924","source_sha256":"02ed656594e04db38f2cb305b4fd06e416ca3ee9312570af57dea282d1d1438f","translation_zh":"「在时限内，先结结实实地揍它个３拳。」","review_notes":"传神还原「３回の攻撃をブチ込んでやれ」。"}
+{"id":"L007925","source_sha256":"417d9497186aec433d0da80aca4b7f0fea27c1f1aa0669449f601689b8d7c7a1","translation_zh":"「先看好咯。@老子先来给你示范一遍。」","review_notes":"敬礼寺粗犷长辈语气。"}
+{"id":"L007949","source_sha256":"48b18b09652037e39923583f4020ec9d884c76900d8818b0e5255838625c7fa6","translation_zh":"「就像这样，点击３次“打击标记”发起攻击后，接下来终于轮到终结一击了！」","review_notes":"准确意译「トドメ（终结一击）」，避免 1.5 笼统泛指「必杀技」。"}
+{"id":"L007950","source_sha256":"8a7b028f863a7a2247573d65a018d77f2d2e78ad4309bedf18bc09a827a1cf90","translation_zh":"「使出终结绝招，终结重击（Finish Blow）彻底干倒对手吧！」","review_notes":"明确「フィニッシュブロー（Finish Blow）」。"}
+{"id":"L007959","source_sha256":"ad752bcf1c2937f90293e21e3c67d1a7edd6cf23b049d733fd7b64cc38fcc903","translation_zh":"「造成３次以上的攻击命中后，画面右下角就会显示出这样的鼠标标记。」","review_notes":"修正 1.5 语序，清晰指向 UI。"}
+{"id":"L007960","source_sha256":"562ee6cd464b0771c15c41a9714ba559be5b4edb2914fb8d8c2e97fc94c86c6b","translation_zh":"「这表示只要点击右键，随时都能发动终结重击！」","review_notes":"对应「フィニッシュブローが発動可能」。"}
+{"id":"L007961","source_sha256":"7e7be0e50a2561b3997be8c90ea0bc619760e5e3f975f6eecb0129b63d96da7c","translation_zh":"「当这个图标出现在画面右下角时，就按下右键试试看。」","review_notes":"指引明确。"}
+{"id":"L007962","source_sha256":"dbecb7a8e12b55e0d428f91c09b07ef3460283a0747682853a2ef5cfb13e828e","translation_zh":"「是右键哦！@　如果你是右撇子，通常就是中指按的那颗键。」","review_notes":"【纠错】修正 1.5 将右撇子中指按键翻译生硬的问题，保留 @ 停顿。"}
+{"id":"L007976","source_sha256":"40097c8ddb865be9af755a956fea8afa221853883554e3b12dbf0555f63b255d","translation_zh":"「接着，就会像这样出现６张扑克牌。」","review_notes":"准确翻译「トランプカード（扑克牌）」。"}
+{"id":"L007977","source_sha256":"64ee8e4070c8aa9db94884d245a36021ff5a5b04195083cc0898e1c57e80b08b","translation_zh":"「挑一张你顺眼的卡牌，点击它！」","review_notes":"指令利落。"}
+{"id":"L007996","source_sha256":"baf2bc4dcfbeb773a56900568d95cc99bc22197ddc23c56fde132a0fd92b1121","translation_zh":"这样一来，就能给敌人狠狠砸上一记强力的终结重击！","review_notes":"传神表达「強力なフィニッシュブローを叩き込む」。"}
+{"id":"L007999","source_sha256":"f0c93c1155d5d6e7897f16eb01d22a5ebdb214e4aa670b299f311bfcca707f3c","translation_zh":"如此一来，攻击就算成功了。","review_notes":"沿用 1.5，利落准确。"}
+{"id":"L008002","source_sha256":"c32e42abf8fa8f170706db94398c9f02e51bf61f819001b559d90ad1c2db7022","translation_zh":"必须一直打到终结重击命中，攻击才算大功告成，明白吗？","review_notes":"强调判定规则。"}
+{"id":"L008005","source_sha256":"97f9264199009977db3156f2f4b9f4408f7901677fc71b1bda96921d01814793","translation_zh":"要是忘了终结技，在那里没完没了地瞎按攻击导致超时，那可就太蠢了！","review_notes":"生动传达敬礼寺吐槽「一番マヌケだな」。"}
+{"id":"L008008","source_sha256":"7030ea90f46a0af037c9306abd6c96bf3d96a679d75f3c4d2a49b662beb59ef3","translation_zh":"在时限内先打中３次攻击，再点右键呼出扑克牌，打出终结重击。@可别忘了啊？","review_notes":"保留 @ 停顿，强化操作口诀。"}
+{"id":"L008017","source_sha256":"c969e1fe9b01545fface0b4cc1895e9619ead1d9da4d2420912dfe0ce62d83d6","translation_zh":"必杀的秘密绝招——空格键也请别忘记哦。@听说在攻击时也同样管用呢。","review_notes":"罗斯补充提醒口吻，保留 @。"}
+{"id":"L008022","source_sha256":"009d3dd4589b7e9239f766ddd76adc3c9d18df3aa7b6b6c1d64431c459a65847","translation_zh":"不管对手有多强，按一下空格键就能把他揍得落花流水哦！","review_notes":"传神意译「ボッコボコよ（揍得落花流水）」。"}
+{"id":"L008030","source_sha256":"f89864ae3d9e5696e50664b2ba2bdd7396ac9443e4ca1dccbf4ba5368b0ec619","translation_zh":"行了，女人家危险就先退后。@来，小子，实战训练开始啦！","review_notes":"敬礼寺硬派命令语气，保留 @。"}
+{"id":"L008033","source_sha256":"60f15a1daec5ba72e9697726ed6eb3648b3644f1d7b7b4bfe97eec0730a96f1d","translation_zh":"敲击３次“打击标记”。@接着按下鼠标右键呼出扑克牌。","review_notes":"操作指令连贯明确。"}
+{"id":"L008036","source_sha256":"0d48fffddf180fa7a2f471ec2a27ee8e0cf05fcf81507ea112946168170aa307","translation_zh":"点击任意一张你喜欢的卡牌！@　这就是终结重击啦！","review_notes":"保留 @ 停顿，情绪饱满。"}
+{"id":"L008040","source_sha256":"77356db7bf0ddc396acaccef6611238aceee48e47267a7523e626174d68142bb","translation_zh":"没法顺畅打出攻击的朋友，请一定要记起那个救命绝招——空格键哦！","review_notes":"罗斯温柔贴心的解说口吻。"}
+{"id":"L008043","source_sha256":"78b5fcb7e8dc5ae93e9074e37c790139c03db8efa777d9c4bb537d6ff66f179c","translation_zh":"上吧！@　让老子见识见识你的攻击！","review_notes":"老兵教官喊话，保留 @。"}
+{"id":"L008077","source_sha256":"728a5be148ac685a0b0f89b674a768387b2aa20cfe4849145ab14d4079b31a3e","translation_zh":"就是这个劲头！@　你小子挺有前途的嘛……！","review_notes":"肯定赏识口吻，保留 @。"}
+{"id":"L008082","source_sha256":"301bac2117bbf088b5e8bc5fed33603daefb9a22114b38bbf01bb24a14d141c3","translation_zh":"尝试过按空格键了吗？！@　攻击也是一按就能搞定呢。","review_notes":"罗斯兴奋提问，保留 @。"}
+{"id":"L008085","source_sha256":"3129ffce8b35f3b5b0585df8bd0f6f9be0ff8d137f1616c8b3372a4b208bbdf0","translation_zh":"不太擅长玩战斗场景、或者想专心欣赏剧情的朋友，@请尽管放开手脚多多使用空格键吧！","review_notes":"修正 1.5 机械生硬的「玩不了迷你游戏」，保留 @。"}
+{"id":"L008090","source_sha256":"cf04667167ceb7c16281c1dfdc7ad3c034d61363c30347e6181b3ae887622391","translation_zh":"怎么样？@攻击和防御都挺简单的吧？","review_notes":"敬礼寺询问，保留 @。"}
+{"id":"L008094","source_sha256":"7a000ef6766b79f80a7b2b01c02e4d5b593aeb0834ed23b29c09ecc8026d1df2","translation_zh":"该不会有人觉得太小儿科，无聊得都要打哈欠了吧？","review_notes":"生动再现「アクビが出るぜェ」。"}
+{"id":"L008098","source_sha256":"171aea43f7ee42939a8839ebd14ffc79553c0d51d8e5ddefd431396740330865","translation_zh":"对于这类狂妄的野小子，老子就来传授你们一套专冲高分去的绝招秘技吧。","review_notes":"传神意译「イカレ小僧ども（狂妄小子们）」。"}
+{"id":"L008102","source_sha256":"2f79aa778b4e264b8e6470662859eab533b2286e83dd25982f0d12a311184ad4","translation_zh":"其中的奥秘，就在于“过量击杀（Overkill）”。","review_notes":"【统一术语】修正 1.5「加倍伤害」，采用规范游戏界术语「过量击杀（Overkill）」。"}
+{"id":"L008106","source_sha256":"bb07fcb16005595db960dce9383a95af59536da3a1c3192b1585fcb23fcb2425","translation_zh":"“过量击杀”，是什么意思呢？","review_notes":"罗斯疑问语气。"}
+{"id":"L008113","source_sha256":"dbd98d1137b52c0b49b81f235a08adbedb80892ae81b820ba8a9cd4771b176a2","translation_zh":"刚才我说过，攻击的时候打中３次后再按右键终结，对吧？","review_notes":"口语承接自然。"}
+{"id":"L008115","source_sha256":"42c68c6c06cdd2f2e382d5b49f6b8b96679999d5a2c1327c604791225d8a1545","translation_zh":"其实最初的这３次攻击啊，@只要时间允许，别说３次，你就算连揍它几十次都行。","review_notes":"保留 @ 停顿，揭示隐藏机制。"}
+{"id":"L008117","source_sha256":"b770ea7d55ea06583a1cd71936b604b5abcb052060bf3c3dc14d65cf78187ca3","translation_zh":"在时限之内尽可能多打几次攻击，最后再打出终结重击。","review_notes":"机制说明准确。"}
+{"id":"L008119","source_sha256":"2af9cd0073febf96a366d38382b6bdf2e3bbe62118f784fc951a78cb1f4bec4a","translation_zh":"这个技巧，就叫做“过量击杀”。","review_notes":"术语对应统一。"}
+{"id":"L008129","source_sha256":"c666522c70e1ef4176e86963a74d99464f88bcdc047f72a11a0a8735780e3f83","translation_zh":"听上去好厉害的攻击呢……。@这样做有什么好处吗？","review_notes":"保留 @ 停顿与好奇语气。"}
+{"id":"L008133","source_sha256":"dcbfe70306658b7e070653f4f63208d4537523cac6dd489a73ade760209085f3","translation_zh":"升级速度会飞快飙升……！@　也就是说，游戏的难度也会跟着节节攀升！","review_notes":"保留 @ 停顿，再现老兵兴奋语气。"}
+{"id":"L008137","source_sha256":"3583ac8fb67724234cdf4a8f494fbdad0a6a699799ffb2f35dda798923f40325","translation_zh":"与此成正比的是，你能捞到的额外奖励得分也会跟着蹭蹭暴涨！","review_notes":"生动翻译「ボーナススコアもガンガン上がる」。"}
+{"id":"L008143","source_sha256":"d1aced6841cbc0afa42aca7fd7414e9eeaf5406a2d04d5a7a0a15f601f5e23fd","translation_zh":"打终结重击的时候，不是会出现６张扑克牌吗？","review_notes":"机制提问自然。"}
+{"id":"L008146","source_sha256":"17b0be913901ecae9106e40609f67472a2bc9c31ba80a3c341330d8bbd5450d2","translation_zh":"那玩意儿啊，@是按照牌面上的数字比例发放奖励分数的。","review_notes":"保留 @ 停顿，解释计分规则。"}
+{"id":"L008149","source_sha256":"e99b0b5d4dfac26de46c28526d2639031b4fb7571afbf62801aa97f1e403f8f4","translation_zh":"也就是说，只要选数字尽量大的卡牌，就能冲到更高分数啦……！","review_notes":"结论明确。"}
+{"id":"L008152","source_sha256":"94b8c235398bfcb644f6cd0269ccd2ceff31be6b76556d7975bd918250183a75","translation_zh":"不仅如此，要是等级大幅提升，抽出来的牌面数字也会越来越大。","review_notes":"说明进阶机制。"}
+{"id":"L008162","source_sha256":"1cbfc70cd3130749fbaf400e1990f154c0227421b1090f088810cb3891cabea5","translation_zh":"疯狂冲着过量击杀去打，等级就会蹭蹭往上涨！","review_notes":"准确对应「オーバーキルを狙いまくって、ガンガンレベルアップ！」。"}
+{"id":"L008166","source_sha256":"3d044e25e85bd1950ad0e2b2428595340ab2490c6aeea4c4f075e1d8a54177d4","translation_zh":"然后再死死瞄准最大数字的牌，高分自然就哗哗到手啦！","review_notes":"准确对应「一番大きな数字のカードを狙い撃ちで、ガンガンハイスコアってわけだ！」。"}
+{"id":"L008170","source_sha256":"490acbcfc42f3d0d8f6d125c130911c9b18d1921b609c6a088d4f013a36d9c61","translation_zh":"自诩有本事的狂妄小子们，能拿多少分就尽管来挑战极限吧！","review_notes":"【纠错】修正 1.5 误将「腕に覚えのある」翻为「对手腕有自信的小子」，还原为「自诩有本事」。"}
+{"id":"L008174","source_sha256":"2d6883cfc1b06f4667277feadcf3f95fc363094b5c634eca3ac0d45ebc96226a","translation_zh":"这难度绝对够劲、够有嚼头啊……！","review_notes":"生动再现老兵语气「ガッツリと歯応えのある難易度になるぜェ…！」。"}
+{"id":"L008182","source_sha256":"688f351accf99140b55da6b6cf6b0a1deba1687ad5c33845367990da2ef2eed5","translation_zh":"呵呵呵，那种挑战还真是让人热血沸腾呢……。","review_notes":"斯特拉跃跃欲试的声线。"}
+{"id":"L008186","source_sha256":"be2fd232f0ffadcbf4c171e932c9d033dbe5de27e43803003dcc40764da49140","translation_zh":"我要刷出一个超级高分，成为普利玛维拉最强的女人！","review_notes":"【统一译名】沿用「普利玛维拉（プリマヴェーラ）」。"}
+{"id":"L008190","source_sha256":"90a9718e66590eb1ebdcc6f4dc05ecb98df0537149e4c30d48042afe789bad86","translation_zh":"想要高分就得靠过量击杀……。@总觉得好不容易呢……。","review_notes":"保留 @ 停顿与罗斯轻微退缩口吻。"}
+{"id":"L008195","source_sha256":"0a5b9ac820eef347fc870afaa229afcaa3802d7c169a717579bf6cd78f1e4802","translation_zh":"这种事只要擅长动作游戏的人记住就行啦。","review_notes":"梅丽尔利落点明。"}
+{"id":"L008199","source_sha256":"5018e9d64a4413d2b14e4702fe6761f5454f6b1f05d73996817f217f7cc67ddc","translation_zh":"只想纯粹享受故事的人，就算忘个精光也完全没问题！","review_notes":"消除玩家焦虑。"}
+{"id":"L008203","source_sha256":"4aa9ba45044078f372a756f00e68e3144a17f3e12ede26f1bc0f3ba471929412","translation_zh":"毕竟就算拿了超高分，也不会触发什么特别的剧情嘛。","review_notes":"说明无剧情强制关联。"}
+{"id":"L008207","source_sha256":"e7f71de2e6c4dc8624677f5428ee1e65f38f6c06e8a72307d66bbaa4af21c8df","translation_zh":"这么说来，除了擅长动作游戏的人以外，完全不用在意分数呢。","review_notes":"罗斯恍然大悟。"}
+{"id":"L008211","source_sha256":"8c7017618bd3840a98f05ac20d237478f65a0684812406f730ca892f4ef357bd","translation_zh":"正是如此。@而且说到战斗场景嘛——","review_notes":"梅丽尔接话，保留 @。"}
+{"id":"L008215","source_sha256":"671fdeee9c3c766edb4b040cab820f68a2e054c064acd0392798770ec2ef6670","translation_zh":"只要一根手指！@　按一下空格键就能轻松搞定啦！","review_notes":"斯特拉欢快口吻，保留 @。"}
+{"id":"L008219","source_sha256":"60260c9753c2d95c04b46bed18e89bd600b22190c320ddf207ad791ee6270764","translation_zh":"不过各位玩家，如果可以的话，还是希望大家能尽量不依赖空格键，亲身挑战一下战斗场景呢。","review_notes":"罗斯真诚呼吁。"}
+{"id":"L008223","source_sha256":"55dcdca20a7aba17b8e1199e13383210c8833c781b792400d0b02c1a1b08216a","translation_zh":"这样一来，相信一定能让大家更深入地体验到ROSE GUNS DAYS的世界魅力所在。","review_notes":"罗斯推介游戏魅力。"}
+{"id":"L008227","source_sha256":"fd05510563402fec4dc579cd9b24382b8f74a7fa6061c0b7edf34c1ba9a9311f","translation_zh":"最后，还有一件非常非常重要的好消息要告诉大家哦！","review_notes":"罗斯压轴情报。"}
+{"id":"L008231","source_sha256":"7b07a9b560410f1e5fc03176fef89cc68c827ea8177201aa71579e0b7dd9eda0","translation_zh":"没想到吧——@其实无论你在战斗场景里失误多少次，都是绝对不会 Game Over 的哦！","review_notes":"【消除歧义】明确绝对不会游戏失败，保留 @。"}
+{"id":"L008235","source_sha256":"d76a7d31706e23e22118886dd8b2b8c5d5879ec708d2b1e4d66ec09dccc69923","translation_zh":"既然没有 Game Over，大家就可以平心静气、毫无后顾之忧地挑战战斗场景啦。","review_notes":"梅丽尔说明无挫败感设计。"}
+{"id":"L008239","source_sha256":"7dd9f7775ead8786d60403098e74897f239f462b2194fcf3441be99a7b44cc17","translation_zh":"不用管剩余时间也不用管失误，悠闲自在地慢慢习惯战斗就好啦。","review_notes":"罗斯温柔安抚。"}
+{"id":"L008243","source_sha256":"b3d48f1161012c14b867e659188eef9c912d6d6d26d0bd95388dc31306970f92","translation_zh":"要是最后还是觉得实在不适合自己，只要按一下空格键，就能轻轻松松直接通关战斗。","review_notes":"说明空格键跳关机制。"}
+{"id":"L008252","source_sha256":"5ba92d14d3b166588f077eb1f469717acf0dca8c0ddbb43567725b293b2088e4","translation_zh":"好战的野小子们就靠过量击杀去冲高分，@不擅长动作的家伙就直接用空格键，就这么简单！","review_notes":"敬礼寺总结，保留 @。"}
+{"id":"L008256","source_sha256":"504a6cab4be42ea082f08f2c7152d2750be999e6f74a10f924d3bf375352a024","translation_zh":"那么，来打最后一轮毕业考试实战吧！","review_notes":"敬礼寺宣布终考。"}
+{"id":"L008260","source_sha256":"fb41aca5b0debd505edb3b012a23263e5950d8981988569462a6b6562f03152c","translation_zh":"攻击、防御。@给老子再展示一遍你的身手！","review_notes":"【纠错】修正 1.5「看看你的腕力」的严重翻译笑话，准确传达「お前の腕（身手/本事）」！保留 @。"}
+{"id":"L008264","source_sha256":"0c4237f6fe13d6d43af4c519cab273311d8ff8295fd28baf2644a2e8e5773d01","translation_zh":"要是对自己有信心，攻击的时候就冲着过量击杀去打吧！","review_notes":"鼓励高阶玩法。"}
+{"id":"L008268","source_sha256":"db457712134e0f425e30e49f935980f6821460daa8e405bfa7b40f0e48cdec96","translation_zh":"抓紧时间能揍多少拳就揍多少拳，最后再按右键呼出扑克牌，打出终结重击！","review_notes":"操作指令生动连贯。"}
+{"id":"L008273","source_sha256":"df0f108af7013b55ec8f0a4ba26fda0f3e4f927d2390e9b526898c5327135dbe","translation_zh":"相反，不擅长动作的朋友，也请再试一次按一下空格键的简易操作哦。","review_notes":"罗斯关照新手。"}
+{"id":"L008277","source_sha256":"fa445f1d0f8b8447d4da97a7054f7b5c0fc7535875d7a5e7f10536da8e0dafe3","translation_zh":"反正没有 Game Over。@大家就抱着轻松悠闲的心情来玩吧！","review_notes":"保留 @ 停顿，罗斯可爱口吻。"}
+{"id":"L008281","source_sha256":"79f2d71798dd1a82b774e31660d61717795fa5cdaac6379193f29857914e9fa0","translation_zh":"那么，要上咯？@　给老子好好亮出你的身手来！","review_notes":"【纠错】再次修正 1.5 错误「腕力」，还原「身手/本事」！保留 @。"}
+{"id":"L008321","source_sha256":"81c6e400ac125ac8ba0dff1d9337381e88f4ea6a1aeeef62778912a82a8d1fdc","translation_zh":"挺能干的嘛，干得漂亮！@　能做到这个程度，就已经完全没问题啦！","review_notes":"梅丽尔盛赞玩家，保留 @。"}
+{"id":"L008326","source_sha256":"51203a17adfdecaa2b8f99ea95cce7405759a7d71ff1417e78a17abe7bf9db00","translation_zh":"让大家久等啦。@那么接下来，ROSE GUNS DAYS的大幕终于要正式拉开咯。","review_notes":"斯特拉宣布正片开幕，保留 @。"}
+{"id":"L008331","source_sha256":"5af67c9602ee8e4a658caaa55df4080903bf9c887c2c5f961648d0522f441446","translation_zh":"那么，就让我们在精彩的故事中再会吧。","review_notes":"罗斯优雅谢幕告别。"}
+{"id":"L008335","source_sha256":"b781df7056081e109e2f22520aa27769fa631ca5b47d6a6d472cbc95d4d5044d","translation_zh":"请大家慢慢享受游戏吧！","review_notes":"罗斯最终致辞，热情真挚。"}

@@ -1,0 +1,43 @@
+# Binary releases & compiled game scripts (hosted on GitHub Releases, not in git repo)
+dist/
+builds/
+*.nsa
+*.dat
+*.ttf
+*.exe
+*.dll
+*.zip
+
+# Local baseline reverse-engineering artifacts (proprietary game data extracted locally)
+baseline_1_5/
+
+# Development scratch, batches, legacy tools, and temporary files
+scratch/
+batches/
+inventory_*/
+translation_delivery/
+translation_review/
+legacy_tools/
+
+# Databases and runtime logs
+*.sqlite
+*.db
+*.log
+*.bak
+*.tmp
+*.dump
+
+# Local internal reports & dumps
+STATUS.md
+TRANSLATION_HANDOFF.md
+pe_static_report.json
+db_init_report.json
+test_single_line_manifest.jsonl
+tutorial_dump.txt
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+Thumbs.db
