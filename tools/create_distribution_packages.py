@@ -5,7 +5,6 @@ from pathlib import Path
 
 ROOT = Path("D:/ai/rose_localization_workspace")
 CANDIDATE = ROOT / "builds" / "final_review_candidate"
-UNLOCKED = ROOT / "builds" / "final_review_unlocked"
 DIST = ROOT / "dist"
 
 def sha256_file(path):
@@ -99,7 +98,7 @@ def make_patch_bundle():
     # 2. Add extra unlocked script
     extra_dir = patch_dir / "extra"
     extra_dir.mkdir(parents=True, exist_ok=True)
-    shutil.copyfile(UNLOCKED / "00.txt", extra_dir / "00_all_seasons_unlocked.txt")
+    shutil.copyfile(CANDIDATE / "extra" / "00_all_seasons_unlocked.txt", extra_dir / "00_all_seasons_unlocked.txt")
     
     # 3. Add README
     (patch_dir / "README_补丁使用说明.txt").write_text(README_PATCH, encoding="gbk")
@@ -147,7 +146,7 @@ def make_standalone_bundle():
     # Add extra unlocked script
     extra_dir = standalone_dir / "extra"
     extra_dir.mkdir(parents=True, exist_ok=True)
-    shutil.copyfile(UNLOCKED / "00.txt", extra_dir / "00_all_seasons_unlocked.txt")
+    shutil.copyfile(CANDIDATE / "extra" / "00_all_seasons_unlocked.txt", extra_dir / "00_all_seasons_unlocked.txt")
     
     # Add README
     (standalone_dir / "README_游戏运行说明.txt").write_text(README_STANDALONE, encoding="gbk")

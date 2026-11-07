@@ -81,6 +81,9 @@ def build():
         patch(target,target,[row['script_zh']])
         cover([row['id']])
 
+    assert 'caption' in base[24]
+    patch(25,25,['caption "Rose Guns Days -Last Season- 四季完整中文版 v2.0 "'])
+
     assert base[44] == 'defaultfont "ＭＳ ゴシック"'
     patch(45,45,['defaultfont "NSimSun"'])
 
@@ -90,8 +93,8 @@ def build():
         assert start >= cursor, f'Overlapping replacement at baseline line {start}'
         chunks.extend(base_raw[cursor-1:start-1])
         line_end = base_raw[start-1][len(base_raw[start-1].rstrip(b'\r\n')):]
-        if start == 45:
-            # Match the font line shipped in the manually verified candidate.
+        if start in (25, 45):
+            # Match standard line ending
             line_end = b'\r\n'
         assert line_end in (b'\r\n',b'\n')
         chunks.extend(line.encode('gbk')+line_end for line in rendered)
@@ -109,4 +112,13 @@ if __name__ == '__main__':
     DESTINATION.mkdir(exist_ok=True)
     (DESTINATION/'00.txt').write_bytes(payload)
     (DESTINATION/'build_report.json').write_text(json.dumps(report,indent=2)+'\n',encoding='utf-8')
+    
+    # Generate companion unlocked script
+    extra_dir = DESTINATION / 'extra'
+    extra_dir.mkdir(exist_ok=True)
+    unlocked_lines = payload.splitlines(keepends=True)
+    unlocked_lines[24] = 'caption "Rose Guns Days -Last Season- 四季完整中文版 v2.0 [全季解锁] "\r\n'.encode('gbk')
+    unlocked_lines[7452] = b'mov %RGDEND,41 : goto *b_sakuru_logo\r\n'
+    (extra_dir / '00_all_seasons_unlocked.txt').write_bytes(b''.join(unlocked_lines))
+    print("Generated standard 00.txt and extra/00_all_seasons_unlocked.txt")
     print(json.dumps(report))
